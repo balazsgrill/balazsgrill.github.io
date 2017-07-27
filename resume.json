@@ -1,0 +1,160 @@
+{
+  "basics": {
+    "name": "Balázs Grill",
+    "label": "Automotive Expert and Lead Developer",
+    "picture": "http://incquerylabs.com/upload/page/.cache/500x500-cut-50x50_170704152234_NCh2Ee_untitled-2_03-07.jpg",
+    "email": "balazs.grill@incquerylabs.com",
+    "phone": "+36-30-7603855",
+    "website": "https://balazsgrill.github.io",
+    "summary": "Eclipse tool developer with experience in embedded systems. Specialized for model-based development tools for automotive embedded applications using AUTOSAR standards. I can cover every aspect of modelbased tool development from using database back-ends to textual and graphical notations of models. Experienced in safety-critical automotive embedded software development including low-level hardware drivers and AUTOSAR Basic Software modules. Also has experience in semantic web technologies and other knowledge-representation techniques. Specialties: Using advanced model-based technologies to improve traditional software development",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "balazsgrill",
+        "url": "https://www.linkedin.com/in/balazsgrill/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "IncQuery Labs Ltd.",
+      "position": "Automotive Expert and Lead Developer",
+      "website": "https://incquerylabs.com",
+      "startDate": "2015",
+      "endDate": "",
+      "summary": "I participate in several projects in the company, both in automotive and state-of-the-art MDD fields and I am the technical lead of the automotive projects.",
+      "highlights": []
+    },
+    {
+      "company": "Eclipse.org",
+      "position": "Comitter",
+      "website": "https://www.eclipse.org/viatra/",
+      "startDate": "2015",
+      "endDate": "",
+      "summary": "Maintainer of the Local search and hybrid graph pattern matcher engines for the VIATRA technology.",
+      "highlights": []
+    },
+    {
+      "company": "Thyssenkrupp Presta Hungary Ltd.",
+      "position": "Senior Software Developer",
+      "website": "http://www.thyssenkrupp.hu/",
+      "startDate": "2012",
+      "endDate": "2015",
+      "summary": "Participated in development of an AUTOSAR Authoring tool based on eclipse and related technologies. I was personally responsible for the majority of the user interface and several core services.",
+      "highlights": [
+        "I also took part in some embedded development including AUTOSAR standard basic software modules and safety-critical software components. ",
+        "From 2013 I was a member of the AUTOSAR consortium standardization body."
+      ]
+    },
+    {
+      "company": "OptXware Research & Development Ltd.",
+      "position": "Software developer",
+      "website": "",
+      "startDate": "2009",
+      "endDate": "2012",
+      "summary": "AUTOSAR tool development with eclipse technologies. My responsibilities covered EMF-based modelling, Graphical model notations using GEF and Persistence for large models using graph databases.",
+      "highlights": []
+    },
+    {
+      "company": "",
+      "position": "Freelance developer",
+      "website": "",
+      "startDate": "2007",
+      "endDate": "2009",
+      "summary": "I've created software for electric and thermal modeling of high-voltage energy cables using IEEE standards. The primarily used technology were Delphi/Object Pascal and Matlab for the physical computations.",
+      "highlights": []
+    },
+    {
+      "company": "BME Innovation and Knowledge Centre of Information Technology",
+      "position": "Student developer",
+      "website": "",
+      "startDate": "2006",
+      "endDate": "2007",
+      "summary": "Software system designs using UML technologies. Implementation of client-server systems using J2EE technologies.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Budapest University of Technology and Economics",
+      "area": "Information Technology",
+      "studyType": "Master's Degree",
+      "startDate": "2004",
+      "endDate": "2009",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Eclipse Technologies",
+      "level": "",
+      "keywords": [
+        "Eclipse Modeling Framework",
+        "Xtext",
+        "Xtend",
+        "OSGi",
+        "VIATRA",
+        "Tycho"
+      ]
+    },
+    {
+      "name": "Embedded Development",
+      "level": "",
+      "keywords": [
+        "C",
+        "ISO26262",
+        "Automotive Spice",
+        "AUTOSAR"
+      ]
+    },
+    {
+      "name": "Web Technologies",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "Javascript",
+        "J2E",
+        "Jetty",
+        "Nginx"
+      ]
+    },
+    {
+      "name": "NoSQL Databases",
+      "level": "",
+      "keywords": [
+        "Apache TinkerPop",
+        "Apache Cassandra",
+        "Titan",
+        "Neo4J",
+        "OrientDB"
+      ]
+    },
+    {
+      "name": "Development Tools",
+      "level": "",
+      "keywords": [
+        "git",
+        "gerrit",
+        "docker",
+        "Jenkins",
+        "Maven",
+        "Jacoco/SonarQube",
+        "Gradle"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
